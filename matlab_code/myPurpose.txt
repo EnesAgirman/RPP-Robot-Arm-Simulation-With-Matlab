@@ -1,0 +1,1 @@
+This is the matlab code to simulate robot arms. It uses the robotic toolbox by Peter Corke.
